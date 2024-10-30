@@ -1,19 +1,17 @@
-# codepath-prework
-
-# Prework - *Name of App Here*
+# Prework - *codepath-prework*
 
 Submitted by: **Yichen Sun**
 
-**Name of your app** is an app that... [TODO] 
+**codepath-prework** is an app that have a button that changes the background of our app to a random color
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [x] Users are see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
