@@ -22,6 +22,18 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 ## App Brainstorming (Step 4)
 
 - **Instagram**
+  - Changing the background color of the message screen
+  - Deleting old messages
+
+- **DoorDash**
+  - Viewing the number of items currently added in the cart
+  - Displaying daily coupons
+ 
+- **Netflix**
+  - Adding the movies to my list
+  - Switching to kids mode
+ 
+I'd like to build an app called **SkillBridge**, designed to connect individuals seeking skill development with real-world project opportunities. SkillBridge would allow users to browse projects by skill area (e.g., coding, design, marketing) and experience level. Project hosts could post challenges that require specific skills, offering users a way to apply and improve their abilities while gaining practical experience. The app would feature a skills-tracking dashboard, feedback system, and personalized recommendations for new projects based on completed tasks.
 
 ## Notes
 
